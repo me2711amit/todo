@@ -2,5 +2,5 @@ todo
 1. wake up
 2. breakfast
 3. lunch
-3. dinner
-4. sleep
+4. dinner
+5. sleep
